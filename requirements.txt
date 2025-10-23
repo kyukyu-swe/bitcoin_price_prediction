@@ -1,0 +1,9 @@
+yfinance
+pandas
+numpy 
+scikit-learn
+StandardScaler
+tensorflow
+mlflow
+flask 
+xgboost
